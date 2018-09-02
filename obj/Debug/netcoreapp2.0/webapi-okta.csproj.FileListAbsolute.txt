@@ -1,0 +1,11 @@
+D:\AspNetCore_VisualStudio2017\webapi-okta\bin\Debug\netcoreapp2.0\webapi-okta.deps.json
+D:\AspNetCore_VisualStudio2017\webapi-okta\bin\Debug\netcoreapp2.0\webapi-okta.runtimeconfig.json
+D:\AspNetCore_VisualStudio2017\webapi-okta\bin\Debug\netcoreapp2.0\webapi-okta.runtimeconfig.dev.json
+D:\AspNetCore_VisualStudio2017\webapi-okta\bin\Debug\netcoreapp2.0\webapi-okta.dll
+D:\AspNetCore_VisualStudio2017\webapi-okta\bin\Debug\netcoreapp2.0\webapi-okta.pdb
+D:\AspNetCore_VisualStudio2017\webapi-okta\obj\Debug\netcoreapp2.0\webapi-okta.csprojResolveAssemblyReference.cache
+D:\AspNetCore_VisualStudio2017\webapi-okta\obj\Debug\netcoreapp2.0\webapi-okta.csproj.CoreCompileInputs.cache
+D:\AspNetCore_VisualStudio2017\webapi-okta\obj\Debug\netcoreapp2.0\webapi-okta.AssemblyInfoInputs.cache
+D:\AspNetCore_VisualStudio2017\webapi-okta\obj\Debug\netcoreapp2.0\webapi-okta.AssemblyInfo.cs
+D:\AspNetCore_VisualStudio2017\webapi-okta\obj\Debug\netcoreapp2.0\webapi-okta.dll
+D:\AspNetCore_VisualStudio2017\webapi-okta\obj\Debug\netcoreapp2.0\webapi-okta.pdb
